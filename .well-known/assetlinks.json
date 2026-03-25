@@ -1,0 +1,23 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.escorecard.project",
+      "sha256_cert_fingerprints":
+      [
+        "32:32:21:6F:06:1F:51:02:A8:D6:A3:AE:6C:EB:C8:DD:76:FD:82:76:00:BB:15:B3:55:0C:81:5E:0E:BA:44:69",
+        "9C:EA:E6:AA:27:CB:ED:7A:E5:8E:C4:3F:0B:A2:7D:77:CD:A7:E7:3D:6D:4A:65:AE:71:4B:92:1D:B4:BA:74:D4"
+      ]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.tournamentapp.project",
+      "sha256_cert_fingerprints":
+      ["D3:9E:F7:D0:BD:1D:EA:46:9B:9C:26:D3:18:8C:28:B5:AE:5D:02:9A:45:16:9C:FC:8E:4B:19:EC:3B:E5:E8:1B"]
+    }
+  }
+]

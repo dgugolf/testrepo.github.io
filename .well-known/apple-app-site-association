@@ -1,0 +1,26 @@
+{
+  "applinks": {
+     "apps": [],
+     "details": [
+          {
+            "appIDs": [
+              "VSALJDQX8G.org.tournamentapp.project.TournamentApp",
+              "VSALJDQX8G.org.tournamentapp.project.TournamentAppProd"
+            ],
+       "paths": ["*"],
+       "components": [
+                 {
+                   "/": "/*"
+                 }
+               ]
+          }
+      ]
+  },
+  "webcredentials": {
+     "apps": [
+       "VSALJDQX8G.org.tournamentapp.project.TournamentApp",
+       "VSALJDQX8G.org.tournamentapp.project.TournamentAppProd"
+     ]
+  }
+}
+
